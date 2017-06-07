@@ -21,7 +21,7 @@ Now you are ready to start.
 
   3. Start leraning
 
-# Suggestion - Mistakes - Errors
+# Suggestions - Mistakes - Errors
 
   If you got a problem or suggestions to improve the program create a comment in git issue.
 
