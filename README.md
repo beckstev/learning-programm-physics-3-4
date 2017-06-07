@@ -19,7 +19,7 @@ Now you are ready to start.
 
   2. Run prepare.py
 
-  3. Start leraning
+  3. Start learning
 
 # Suggestions - Mistakes - Errors
 
