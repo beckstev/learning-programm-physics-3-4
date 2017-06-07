@@ -2,7 +2,7 @@
 
 This programm was build to prepare you for the verbal physics 3/4 exam.
 
-#How to start
+# How to start
 
   1. Install python
 
@@ -13,10 +13,17 @@ This programm was build to prepare you for the verbal physics 3/4 exam.
 
 Now you are ready to start.
 
-#Start the program
+# Start the program
 
   1. Go into the dictionary learning-program-physics-3-4
 
   2. Run prepare.py
 
   3. Start leraning
+
+# Suggestion - Mistakes - Errors
+
+  If you got a problem or suggestions to improve the program create a comment in git issue.
+  As fast as possible I am going to improve/fix the program.
+
+  If you think a question is missing please write an issue as well.
