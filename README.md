@@ -24,6 +24,9 @@ Now you are ready to start.
 # Suggestion - Mistakes - Errors
 
   If you got a problem or suggestions to improve the program create a comment in git issue.
+
+  https://github.com/beckstev/learning-programm-physics-3-4/issues
+
   As fast as possible I am going to improve/fix the program.
 
   If you think a question is missing please write an issue as well.
