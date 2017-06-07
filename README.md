@@ -15,7 +15,7 @@ Now you are ready to start.
 
 #Start the program
 
-  1.Go into the dictionary learning-program-physics-3-4
+  1. Go into the dictionary learning-program-physics-3-4
 
   2. Run prepare.py
 
