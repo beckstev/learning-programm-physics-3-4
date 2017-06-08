@@ -187,7 +187,7 @@ class User:
             connection.close()
     def menu(self):
             print('Drittes Semester (3)                   Viertes Semester (4)' )
-            print('Lagrange-Formalismus (l)               Hamilton-Formaismus (h)' )
+            print('Lagrange-Formalismus (l)               Hamilton-Formalismus (h)' )
             print('Kreisel (k)                            Wellen (w)' )
             print('Geometrische Optik (go)                Wellenoptik (wo)' )
             print('Chaostheorie (c)                       Beide Semester (34)')
