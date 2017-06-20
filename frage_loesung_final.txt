@@ -1,0 +1,291 @@
+
+1      [('Wodurch zeichnen sich virtuelle Verrückungen aus?',)]      [('1. Instantan, 2. Berücksichtigen die Zwangsbedingungen, 3. infinitesimal',)]
+[('Wodurch zeichnen sich virtuelle Verrückungen aus?',)]
+
+2      [('Wie kommt man von Lagrange zu Hamilton?',)]      [('Legendre-Tafo',)]
+[('Wie kommt man von Lagrange zu Hamilton?',)]
+
+3      [('Wo hat man ein permanentes äußeres Drehmoment?',)]      [('Präzession',)]
+[('Wo hat man ein permanentes äußeres Drehmoment?',)]
+
+4      [('Wie erhält man die Euler-Lagrange Differentialgleichung?',)]      [("Über das D'Alemebert Prinzip oder über das Hamilton-Prinzip",)]
+[('Wie erhält man die Euler-Lagrange Differentialgleichung?',)]
+
+5      [("Was besagt das D'Alembert Prinzip?",)]      [('Zwangskräfte verrichten keine Arbeit',)]
+[("Was besagt das D'Alembert Prinzip?",)]
+
+6      [('Was ist das Hamilton Prinzip?',)]      [('Das Prinzip der extremalen Wirkung',)]
+[('Was ist das Hamilton Prinzip?',)]
+
+7      [('Wovon hängt die Hamilton-Funktion ab?',)]      [('Vom Impuls p und vom Ort ',)]
+[('Wovon hängt die Hamilton-Funktion ab?',)]
+
+8      [('Wovon hängt die Lagrange Funktion ab?',)]      [('Von der Geschwindigkeit v und dem Ort',)]
+[('Wovon hängt die Lagrange Funktion ab?',)]
+
+9      [('Wie viele Bewegungsgleichung erhalten wir beim Lagrange-Formalismus?',)]      [('f, f sind die Freiheitsgrade',)]
+[('Wie viele Bewegungsgleichung erhalten wir beim Lagrange-Formalismus?',)]
+
+10      [('Wie viele Bewegungsgleichungen erhalten wir beim Hamilton-Formalismus?',)]      [('2f, f sind die Freiheitsgrade',)]
+[('Wie viele Bewegungsgleichungen erhalten wir beim Hamilton-Formalismus?',)]
+
+11      [('Welche Ordnung haben die Differntialgleichung beim Lagrange-Formalismus?',)]      [('Sie sind von der Ordnung 2',)]
+[('Welche Ordnung haben die Differntialgleichung beim Lagrange-Formalismus?',)]
+
+12      [('Welche Ordnung haben die Differntialgleichung beim Hamilton-Formalismus?',)]      [('Sie sind erster Ordnung',)]
+[('Welche Ordnung haben die Differntialgleichung beim Hamilton-Formalismus?',)]
+
+13      [('Wieso bietet der Lagrange-Formalismus mit seinen f Differntialgleichung (f sind die Freiheitsgrade) keinen Vorteil gegenüber den 2f Differentialgleichung im Hamilton-Formalimus?',)]      [('Weil wir bei Lagrange DGL zweiter Ordnung haben und bei Hamilton DGln erster Ordnung betrachten',)]
+[('Wieso bietet der Lagrange-Formalismus mit seinen f Differntialgleichung (f sind die Freiheitsgrade) keinen Vorteil gegenüber den 2f Differentialgleichung im Hamilton-Formalimus?',)]
+
+14      [('Wann ist die Koordinate q zyklisch in der Lagrangefunktion?',)]      [('Wenn die Lagrangefunktion nicht explizit von q abhängt.',)]
+[('Wann ist die Koordinate q zyklisch in der Lagrangefunktion?',)]
+
+15      [('Wenn die Variabel q eine zyklisch ist, welche Aussage kann dann getroffen werden?',)]      [('Der zugehörige Impuls von q ist eine Erhaltungsgröße.',)]
+[('Wenn die Variabel q eine zyklisch ist, welche Aussage kann dann getroffen werden?',)]
+
+16      [('Wann gilt H=T+V (H sei die Hamilton Funktion)?',)]      [('In einem holonomen skleronomen System.',)]
+[('Wann gilt H=T+V (H sei die Hamilton Funktion)?',)]
+
+17      [('Wie viele Freiheitsgrade kann ein System besitzen?',)]      [('Es kann N-K Freiheitsgrade besitzen, N entspricht der Anzahl der Bewegungsrichtung und Kippwinkel, K ist die Anzahl der holonomen Zwangsbedingungen',)]
+[('Wie viele Freiheitsgrade kann ein System besitzen?',)]
+
+18      [('Was bedeutet: 1. skeleronom 2. rhenonom 3. holonom ',)]      [('1. zeitunabhängig 2. zeitabhängig 3. darstellbar als Funktion f(r1,r2,...,rn)',)]
+[('Was bedeutet: 1. skeleronom 2. rhenonom 3. holonom ',)]
+
+19      [('Was sind generalisierte Koordinaten?',)]      [('Das sind die Koordinaten die die Zwangsbedingungen berücksichtigen.',)]
+[('Was sind generalisierte Koordinaten?',)]
+
+20      [('Was besagt das Noether-Theorem?',)]      [('Bleibt die Lagrangefunktionen unter einer kontinuierlichen, stetig differenzierbaren Koordinatentransformation invariant, so kann eine Erhaltungsgröße gefunden werden.',)]
+[('Was besagt das Noether-Theorem?',)]
+
+21      [('Was ist ein Kreisel?',)]      [('Jeder rotierende starrer Körper, der sich nicht wie ein Maschinenteil um eine raumfeste Achse dreht, heißt Kreisel.',)]
+[('Was ist ein Kreisel?',)]
+
+22      [('Was ist Präzession?',)]      [('1. Es gibt ein äußeres Drehmoment, deshalb ist der Drehimpuls nicht mehr konstant. 2. zusätzliche Rotation der Achse des Drehimpulses 3. Figurenachse stimmt mit Drehimpulsachse überein',)]
+[('Was ist Präzession?',)]
+
+23      [('Was ist Nutation?',)]      [('1. raumfester Drehimpuls, 2. Figurenachse rotiert auf Kegelmantel um Achse des Drehimpulses ',)]
+[('Was ist Nutation?',)]
+
+24      [('Wann betrachtet man einen schweren Kreisel?',)]      [('Wenn die Schwerkraft im Schwerpunkt des Kreisels wirkt',)]
+[('Wann betrachtet man einen schweren Kreisel?',)]
+
+25      [('Wenn bei einem Kreisel der Schwerpunkt auf der Figurenachse liegt, was für einen Kreisel betrachten wir?',)]      [('Einen symetrischen Kreisel',)]
+[('Wenn bei einem Kreisel der Schwerpunkt auf der Figurenachse liegt, was für einen Kreisel betrachten wir?',)]
+
+26      [('Was beschreiben die Euler-Winkel?',)]      [('Die Euler-Winkel beschreiben drei aufeinander folgende Drehungen.',)]
+[('Was beschreiben die Euler-Winkel?',)]
+
+27      [('Wann kann der Virialsatz verwendet werden?',)]      [('Für periodische Bahnen oder beschränkte Systeme (z.B. Teilchen in einem Behälter).',)]
+[('Wann kann der Virialsatz verwendet werden?',)]
+
+28      [('Formuliere den Virialsatz.',)]      [('2<T>-n<V>, mit n ist der Grad vom Potetntial (z.B. V~r^2 -> n=2)',)]
+[('Formuliere den Virialsatz.',)]
+
+29      [('Was besagt das Poisson-Theorem?',)]      [('Die Poisson-Klammer zweier Erhaltungsgrößen ist wieder eine Erhaltungsgröße.',)]
+[('Was besagt das Poisson-Theorem?',)]
+
+30      [('Welche Vorteile bietet der Hamilton-Formalismus?',)]      [('1. elegante, symetrische Formulierung, die Dynamik im Phasenraum wird durch die Dgln 1. Ordnung beschrieben, 2. wichtige geoemtrische Eigenschaften (Sauvill) werden erst im Phasenraum deutlich (nützlich für die Chaostheorie)',)]
+[('Welche Vorteile bietet der Hamilton-Formalismus?',)]
+
+31      [("Wir betrachten ein skleronomes und holonomes System, was kann ich 'direkt' hinschreiben?",)]      [('Die Hamiltonfunktion mit H=T+V',)]
+[("Wir betrachten ein skleronomes und holonomes System, was kann ich 'direkt' hinschreiben?",)]
+
+32      [('Gegen welche Transformation ist die Lagrangefunktion invariant?',)]      [('Gegen Punkttransformatio',)]
+[('Gegen welche Transformation ist die Lagrangefunktion invariant?',)]
+
+33      [('Ist die Hamiltonfunktion gegenüber Punktransformationen invariant?',)]      [('Ja',)]
+[('Ist die Hamiltonfunktion gegenüber Punktransformationen invariant?',)]
+
+34      [('Was sind kanonische Transformationen?',)]      [("Als kanonische Transformation bezeichnet man die Art Transformation Q=Q(q,p) und P=P(q,p) in der man eine neue Hamilton Funktion H'=H'(Q,P) findet, sodass wieder die Hamilton-Gleichung erfüllt sind.",)]
+[('Was sind kanonische Transformationen?',)]
+
+35      [('Wie sind die M_1, M_2, M_3 und M_4 Erzeugenden definiert?',)]      [('M_1=M_1(q,Q,t), M_2=M_2(q,P,t), M_3=M_3(p,Q,t), M_4=M_4(p,P,t)',)]
+[('Wie sind die M_1, M_2, M_3 und M_4 Erzeugenden definiert?',)]
+
+36      [('Welche Erzeugende ist die Identität?',)]      [('M_2=M_2(q,P)',)]
+[('Welche Erzeugende ist die Identität?',)]
+
+37      [('Wann ist eine Transformation kanonisch?',)]      [('1. Wenn MJM^t=J ist (M,J,M^t sind Tensoren, am besten schlägt man die mal nach) 2. Die Poisson Klammern sind unter der Transformation invariant. 3. Die fundamentalen Poisson-Klammern sind unter der Transformation invariant. (Bem. alle Aussage sind äquivalent zueinander) ',)]
+[('Wann ist eine Transformation kanonisch?',)]
+
+38      [('Welche Erkenntnis erlangen wir mit Hilfe von infinitesimalen kanonischen Transformationen? ',)]      [('Wenn f eine Erhltungsgröße ist <=> die von f erzeugte infinitesimale kanonische Transformation lässt H (Hamiltonfunktion) invariant (das heißt es gibt eine Symetrie z.B. der Lenzrungevektor gehört zu der S0(4)-Drehgruppe)',)]
+[('Welche Erkenntnis erlangen wir mit Hilfe von infinitesimalen kanonischen Transformationen? ',)]
+
+39      [('Wann schneiden sich die Bahnen im Phasenraum nicht?',)]      [('Wenn die Hamiltonfunktion zeitlich konstant ist.',)]
+[('Wann schneiden sich die Bahnen im Phasenraum nicht?',)]
+
+40      [('Wie werden stabile Fixpunkte auch genannt?',)]      [('elliptische Fixpunkte',)]
+[('Wie werden stabile Fixpunkte auch genannt?',)]
+
+41      [('Ist ein hyperbolischer Fixpunkt, stabil oder instabil?',)]      [('instabil',)]
+[('Ist ein hyperbolischer Fixpunkt, stabil oder instabil?',)]
+
+42      [('Was besagt der Satz von Liouville?',)]      [('Der Fluss im Phasenraum erhält das Volumen.',)]
+[('Was besagt der Satz von Liouville?',)]
+
+43      [('Wann ist ein System integrabel?',)]      [('Sind in einem System mit f (2f-dim. Phasenraum) f unabhängige Erhaltungsgrößen in Involution bekannt, so ist das System durch Winkel- und Wirkungsvariable integrierbar.',)]
+[('Wann ist ein System integrabel?',)]
+
+44      [('Welches geometrische Objekt beschreiben die Wirkungs- und Winkelvariable?',)]      [('Sie beschreiben eine Bewegung auf einem Torus.',)]
+[('Welches geometrische Objekt beschreiben die Wirkungs- und Winkelvariable?',)]
+
+45      [('Was sind die Eigenschaften von Wirkungs- und Winkelvariabeln?',)]      [('1. Wirkungsvariabeln I sind wieder Erhaltungsgrößen. 2. Die Wirkungsvariabeln sind zyklisch und 2pi-periodisch.',)]
+[('Was sind die Eigenschaften von Wirkungs- und Winkelvariabeln?',)]
+
+46      [('Wozu nutzt man den Poincare-Schnitt?',)]      [('Er wird als Hilfsmittel für die Visualisierung der Dynamik im 2f-Phasenraum verwendet.',)]
+[('Wozu nutzt man den Poincare-Schnitt?',)]
+
+47      [('Wie erhält man einen Poincare-Schnitt?',)]      [('Man definiert eine Fläche im Phasenraum (die den von den Wirkungs- und Winkelvariabeln aufgespannten Torus schneidet). Man makiert nun den Punkt auf der Fläche, an dem die Trajektorie die Fläche schneidet. Es ergibt sich also eine direkte Punktfolge und das ist dann der Poincare-Schnitt.',)]
+[('Wie erhält man einen Poincare-Schnitt?',)]
+
+48      [('Wann berachten wir resonante Tori?',)]      [('1. Das System ist integrabel 2. Der Poincare-Schnitt umfasst diskrete Punkte die einem Kreis ähneln',)]
+[('Wann berachten wir resonante Tori?',)]
+
+49      [('Wann werden Tori als nicht resonant bezeichnet?',)]      [('Die Poincare Schnitte füllen einen kontinuierlichen Kreis aus.',)]
+[('Wann werden Tori als nicht resonant bezeichnet?',)]
+
+50      [('Was besagt das KAM-Theorem?',)]      [('Fast alle invarianten Tori integrabeler Systeme besteht fort (evtl. leicht defomiert) in Anwesenheit einer kleinen Störung. Nur in der Nähe resonanter Tori werden die invarianten Tori instabil. Das Maß der Menge der instabilen Tori kann beliebig klein gemacht werden für schwache Störungen. ',)]
+[('Was besagt das KAM-Theorem?',)]
+
+51      [('Was besagt das Poincare-Birkhoff Theorem?',)]      [('Nach Anschalten der Störung verbleiben aus einem resoanten Torus eine gerade Anzahl von Fixpunkten, eine Hälfte ist elliptisch und eine Hälfte ist hyperbolisch. Chaos exestiert in der Nähe von hyperbolischen Fixpunkten.\n',)]
+[('Was besagt das Poincare-Birkhoff Theorem?',)]
+
+52      [('Was sind Ljapunow-Exponenten?',)]      [('Der Ljapunow-Exponent eines dynamischen System beschreibt die Geschwindigkeit, mit der sich zwei (nahe beieinanderliegende) Punkte im Phasenraum voneinander entfernen oder annähern. Im n-dim Phasenraum gibt es n Ljapunow-Exponenten. ',)]
+[('Was sind Ljapunow-Exponenten?',)]
+
+53      [('Was sagt uns ein positiver Ljapunow-Exponent?',)]      [('Sie signalisierenen eine Instabilität, das heißt die Störung wächst.',)]
+[('Was sagt uns ein positiver Ljapunow-Exponent?',)]
+
+54      [('Welches Vorzeichen hat der Ljapunow-Exponent in einem stabilen System?',)]      [('Er ist negativ. ',)]
+[('Welches Vorzeichen hat der Ljapunow-Exponent in einem stabilen System?',)]
+
+55      [('Welche Bedingung sind an die Ljapunow-Exponenten in einem System gestellt, inwelchem der Satz von Lioville gilt?',)]      [('Die Summer alle Ljapunow-Exponenten muss gleich null sein.',)]
+[('Welche Bedingung sind an die Ljapunow-Exponenten in einem System gestellt, inwelchem der Satz von Lioville gilt?',)]
+
+56      [('Wie heißen die beiden Lösung der Wellengleichung?',)]      [("1. d'Alemebert Lösungen: y(x,t)=f(x +/- ct) 2. Bernoullische Lösung: y(x,t)=g(x)h(t)",)]
+[('Wie heißen die beiden Lösung der Wellengleichung?',)]
+
+57      [('Welche r (Radius) Abhängigkeit besitzen Kugelwellen?',)]      [('Sie sind ~ 1/r',)]
+[('Welche r (Radius) Abhängigkeit besitzen Kugelwellen?',)]
+
+58      [('Welche r (Radius) Abhängigkeit besitzen Kreiswellen?',)]      [('Sie laufen mit ~ r^(-0.5)',)]
+[('Welche r (Radius) Abhängigkeit besitzen Kreiswellen?',)]
+
+59      [('Wann enstehen stehende Wellen?',)]      [('Stehende Wellen entstehen bei zwei 1dim Wellen mit gleicher Amplitude und gleicher Wellenlänge/Frequenz, aber mit einer entgegengesetzten Ausbreitungsrichtung.',)]
+[('Wann enstehen stehende Wellen?',)]
+
+60      [('Welche Randbedingung gilt, bei einer 1dim Welle, bei einem festen Ende?',)]      [('Es gibt einen Phasensprung um pi (Es muss sich ja ein Knoten am Rand befinden)',)]
+[('Welche Randbedingung gilt, bei einer 1dim Welle, bei einem festen Ende?',)]
+
+61      [('Was für einen Phasensprung gibt es bei einer 1dim Welle mit einem offenen Ende?',)]      [('Es gibt keinen Phasensprung',)]
+[('Was für einen Phasensprung gibt es bei einer 1dim Welle mit einem offenen Ende?',)]
+
+62      [('Was ist die Schallgeschwindigkeit bei 20 Grad Celsius in Luft?',)]      [('ca. 344 m/s',)]
+[('Was ist die Schallgeschwindigkeit bei 20 Grad Celsius in Luft?',)]
+
+63      [('Wie erhält man die klassische Feldtheorie?',)]      [('Mit der Lagrangedichte',)]
+[('Wie erhält man die klassische Feldtheorie?',)]
+
+64      [('Was ist die Fourier-Transformierte einer Konstante?',)]      [('Die Delta-Distribution',)]
+[('Was ist die Fourier-Transformierte einer Konstante?',)]
+
+65      [('Was ist die Fourier-Transformierte der Delta-Distribution?',)]      [('Eine Konstante',)]
+[('Was ist die Fourier-Transformierte der Delta-Distribution?',)]
+
+66      [('Was ist die Fouriertransformierte einer Gaußfunktion?',)]      [('Eine Gaußfunktion',)]
+[('Was ist die Fouriertransformierte einer Gaußfunktion?',)]
+
+67      [('Welche Randbedingungen gelten für die schwingende Seite (Länge: l) mit eingespannten Enden?',)]      [('y(x=0,t)=0 und y(x=l,t)=0',)]
+[('Welche Randbedingungen gelten für die schwingende Seite (Länge: l) mit eingespannten Enden?',)]
+
+68      [('Wie viele Nullstellen besitzt die Beselfunktion 1. Art?',)]      [('Unendlich viele',)]
+[('Wie viele Nullstellen besitzt die Beselfunktion 1. Art?',)]
+
+69      [('Was ist die Indexmenge der Beselfunktion und welche sind physikalisch sinnvoll?',)]      [('Die Indexmenge sind die ganzen Zahlen und physikalitive Teilmenge der ganzen Zahlen.',)]
+[('Was ist die Indexmenge der Beselfunktion und welche sind physikalisch sinnvoll?',)]
+
+70      [('Wie lautet die Randbedingung in 3dim bei einer starren Wand?',)]      [('grad V(x,y,z,t) *n(x,y,z)=0 (dabei sei V das Potential des Geschwindigkeitsfeldes und n der Normalenvektor der Wand)',)]
+[('Wie lautet die Randbedingung in 3dim bei einer starren Wand?',)]
+
+71      [('Wie lautet die Randbedingung in 3dim an einer Öffnung?',)]      [('Die zeitliche Änderung des Potential des Geschwindigkeitfeldes ist gleich null.',)]
+
+[('Wie lautet die Randbedingung in 3dim an einer Öffnung?',)]
+72      [('Wann erhalte ich die Legendre DGL? Wie löse ich sie?',)]      [('Man erhält die Legendre DGl beim Kugelresonater, nachdem man die Winkelanteile separiert hat. Gelöst wird sie mit Hilfe der Sommerfeldschen Polynom Methode.',)]
+[('Wann erhalte ich die Legendre DGL? Wie löse ich sie?',)]
+
+73      [('Wann verwendet man anstatt Legendrefunktion Legendrepolynome?',)]      [('Wenn ein axialsymetrisches Problem betrachtet wird. ',)]
+[('Wann verwendet man anstatt Legendrefunktion Legendrepolynome?',)]
+
+74      [('Was ist eine Besonderheit der Kugelflächenfunktionen? (Tipp: denk an Vektorräume)',)]      [('Sie bilden ein vollständiges Orthonormalsystem (ONS)',)]
+[('Was ist eine Besonderheit der Kugelflächenfunktionen? (Tipp: denk an Vektorräume)',)]
+
+75      [('Welche Annahme macht man bei Seichtwasserwellen und welche Phasengeschwindigkeit ergibt sich damit?',)]      [('kh<1 (h entspricht der Höhe) -> omega=k (gh)^0.5=kc -> c=(gh)^0.5',)]
+[('Welche Annahme macht man bei Seichtwasserwellen und welche Phasengeschwindigkeit ergibt sich damit?',)]
+
+76      [('Welche Annahme macht man bei Tiefwasserwellen und welche Phasengeschwindigkeit ergibt sich? ',)]      [('kh>1 -> omega = (gk)^0.5=kc -> c=(g/k)^0.5',)]
+[('Welche Annahme macht man bei Tiefwasserwellen und welche Phasengeschwindigkeit ergibt sich? ',)]
+
+77      [('Was besagt das Brechungsgesetz?',)]      [("Der Einfallswinkel alpha und der Reflexionswinkel alpha' sind gleich. Zwischen dem Einfallswinkel alpha un dem Winkel beta der gebrochenen Welle besteht folgende Beziehung sin(alpha)n_1=sin(beta)n_2. Die Winkel werden immer zu der Normalenebende der brechenden Fläche gezogen. ",)]
+[('Was besagt das Brechungsgesetz?',)]
+
+78      [('Mit was befassen sich die Fresnel-Gleichung? ',)]      [('Mit der Amplitude und Polarisation von reflektierten und gebrochenen Wellen.',)]
+[('Mit was befassen sich die Fresnel-Gleichung? ',)]
+
+79      [('Was ist der Brewsterwinkel?',)]      [('Der Brewsterwinkel ist der Einfallswinkel alpha, für den alpha+beta= 1/2pi gilt, bei dem also die Wellenvektor vom reflektierter und gebrochender Welle senkrecht aufeinander stehen. In diesem Fall ist das Reflexionsvermögen der parallelen Welle null.',)]
+[('Was ist der Brewsterwinkel?',)]
+
+80      [('Wie leitet man den Brewesterwinkel her?',)]      [('Mit sin(alpha)n_1=sin(beta)n_2 und alpha+beta= 1/2 pi folgt das der Bewesterwinkel alpha_b gleich: tan(alpha_b)= n_2/n_1 ist.',)]
+[('Wie leitet man den Brewesterwinkel her?',)]
+
+81      [('Welcher Effekt tritt beim Brewsterwinkel auf und wie kann man das erklären?',)]      [('Das Reflexionsvermögen der parallelen reflektierten Welle ist gleich null. Das heißt es wird keine parallel polarisierte Welle reflektiert. Das ganze kann man sich mit kleinen herzschen Dipolen erklären, denn ein Dipol der z.B. nach oben und unten schwingt strahlt in diese beiden Richtung auch keine elektromagnetische Strahlung ab. Dies ist hier auch der Fall, denn die Wellenvektoren der reflektierten und gebrochenen Welle stehen senkrecht aufeinander, deshalb gibt es keine parallele Komponente.',)]
+[('Welcher Effekt tritt beim Brewsterwinkel auf und wie kann man das erklären?',)]
+
+82      [('Was ist Totalreflexion?',)]      [('Für den Winkel alpha mit sin(alpha)> n_2/n_1 wird alles Licht an der Grenzfläche reflektiert. Der Grenzwinkel für Totalreflexion ist sin(alpha_g)= n_2/n_1.',)]
+[('Was ist Totalreflexion?',)]
+
+83      [('Wann tritt Totalreflexion auf?',)]      [('Totalreflexion tritt nur beim Übergang vom optisch dichteren zum optisch dünneren Medium auf.',)]
+[('Wann tritt Totalreflexion auf?',)]
+
+84      [('Welche Annahmen werden bei der geometrischen Optik gemacht?',)]      [('1. Die Lichtstrahlen sind Geraden 2.Die Wellenlänge ist klein gegenüber der Apperaturkonstante ',)]
+[('Welche Annahmen werden bei der geometrischen Optik gemacht?',)]
+
+85      [('Was ist die genäherte Brennweite für den Hohlspiegel?',)]      [('f=1/2 r, r ist der Radius des Spiegels',)]
+[('Was ist die genäherte Brennweite für den Hohlspiegel?',)]
+
+86      [('Welche Eigenschaften besitzt der Parabolspiegel?',)]      [('1. Alle parallelen Strahlen gehen durch den Brennpunkt 2. Er besitzt ein reelles umgekehrtes Bild 3. Die Bildgröße ist ungleich der Gegenstandsgröße 4. Es gibt ein virtuelles Bild, wenn die Gegenstandsweite kleiner als die Brennweite ist',)]
+[('Welche Eigenschaften besitzt der Parabolspiegel?',)]
+
+87      [('Unter welchem Winkel entsteht ein Hauptregenbogen oder ein Nebenregenbogen?',)]      [('Hauptregenbogen: 42 Grad, Nebenregenbogen: 51 Grad',)]
+[('Unter welchem Winkel entsteht ein Hauptregenbogen oder ein Nebenregenbogen?',)]
+
+88      [('Wie lautet die Linsengleichung?',)]      [('1/b + 1/g = 1/f, dabei ist b die Bildweite, g die Gegenstandsweite und f die Brennweite',)]
+[('Wie lautet die Linsengleichung?',)]
+
+89      [('Was ist die Brechkraft für ein entspanntes Auge?',)]      [('58.6',)]
+[('Was ist die Brechkraft für ein entspanntes Auge?',)]
+
+90      [('Was für eine Linse benötigt man bei Weitsichtigkeit?',)]      [('Man benötigt konvexe Linsen',)]
+[('Was für eine Linse benötigt man bei Weitsichtigkeit?',)]
+
+91      [('Ich trage eine Brille mit konkaven Linsen, bin ich weit- oder kurzsichtig?',)]      [('Ich bin kurzsichtig',)]
+[('Ich trage eine Brille mit konkaven Linsen, bin ich weit- oder kurzsichtig?',)]
+
+92      [('Was besagt das Huygensche Prinzip?',)]      [('Jeder Punkt einer Wellenfront kann als Ausgangspunkt einer neuen Elementarwelle (Kugelwelle 3dim, Kreiswelle 2dim) betrachtet werden. Deren Einhüllende ist die Wellenfront. ',)]
+[('Was besagt das Huygensche Prinzip?',)]
+
+93      [('Welche Randbedingungen gelten bei der Kirchhoffschen Beugungstheorie? ',)]      [('1. Rand der Blende B: \\vec{r}\\in B mit U(\\vec{r})=U_0 1/r e^(iks) -> einfallende Welle ist hier eine Kugelwelle 2. Rand des Schirms S: \\vec{r}\\in S mit U(\\vec{r})=0 und grad U(\\vec{r})=0, wir betrachten hier den undurchlässigen Schirm 3. Halbkugelschale im Unendlichen H, \\vec{r}\\in H mit U(\\vec{r})~1/r und grad U~ 2 ',)]
+[('Welche Randbedingungen gelten bei der Kirchhoffschen Beugungstheorie? ',)]
+
+94      [('Was besagt das Babinetsche Prinzip?',)]      [('Das Beugungsbild an zwei komplementären Spalten ist das selbe wie ohne Spalten.',)]
+[('Was besagt das Babinetsche Prinzip?',)]
+
+95      [('Welche beiden Annahmen werden für die Kirchhoffsche Beugungstheorie getroffen?',)]      [('1) r,s sehr groß -> a^2/(lambda r) << 1, Frauenhofer Beugung (Fernfeld), 2. r,s groß -> a^2/(lambda r) <= 1, a/r<<1, Fresnel Beugung (Nahfeld), hierbei sind r,s die Abstände vor bzw. nach dem Spalt und a die Blendenöffnung',)]
+[('Welche beiden Annahmen werden für die Kirchhoffsche Beugungstheorie getroffen?',)]
+
+96      [('Wann sind zwei Wellen kohärent?',)]      [('Zwei Wellen sind kohärent, wenn ihr Phasenunterschied zeitlich konstant ist. ',)]
+[('Wann sind zwei Wellen kohärent?',)]
+
+97      [('Was besagt das Rayleigh Kriterium?',)]      [('Das Rayleig Kriterium gibt an, wann man zwei Beugungsmaxima voneinder unterscheiden kann. Und zwar genau dann, wenn das eine Beugungsmaximum im Minmum des Anderen liegt. ',)]
+[('Was besagt das Rayleigh Kriterium?',)]
