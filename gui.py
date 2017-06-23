@@ -344,7 +344,6 @@ def show_question():
     for i in range(number_of_question):
         User.listenpunkt=i
         User.fragenreihnfolge
-        print(user.fragenreihnfolge_variabel[i])
         n=user.fragenreihnfolge_variabel[i]
         baseCursor.execute(""" SELECT frage FROM fragen WHERE fragennummer = {} """.format(n))
         frage=baseCursor.fetchall()
@@ -367,9 +366,6 @@ def show_question():
     insert_button('Quit', question_window,9,8,1,1,quit)
     next_button=insert_button('Next', question_window,9,7,1,1,next)
     insert_button('Show', question_window,9,6,1,1,show)
-    frage_box.config(font=( None, None, 'bold' ))
-    #user.fragen_variabel(number_of_question)
-    #user.save_data()
 
 def quit():
     question_window.destroy()
@@ -377,7 +373,6 @@ def quit():
     connection.close()
 
 def show():
-    print('show',antwort_liste[k])
     answer_box.configure(text=antwort_liste[k])
 
 def next():
@@ -390,7 +385,7 @@ def next():
         answer_box.configure(text='Click Show')
         question_window.title('Physik 3/4 Vorberitungsprogramm ' + ' Fragennummer:  '+ str(fragen_number_list[k]))
     else:
-        print('in der else')
+        frage_box.configure(text=fragen_liste[k])
         next_button.destroy()
         insert_button('Quit', question_window,9,8,1,1,quit)
         insert_button('Show', question_window,9,6,1,1,show)
