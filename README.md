@@ -13,11 +13,19 @@ This programm was build to prepare you for the verbal physics 3/4 exam.
 
 Now you are ready to start.
 
-# Start the program
+# Start the program - Console Version
 
   1. Go into the dictionary learning-program-physics-3-4
 
   2. Run prepare.py
+
+  3. Start learning
+
+# Start the program - GUI Version
+
+  1. Go into the dictionary learning-program-physics-3-4
+
+  2. Run gui.py
 
   3. Start learning
 
