@@ -386,6 +386,7 @@ def next():
         question_window.title('Physik 3/4 Vorberitungsprogramm ' + ' Fragennummer:  '+ str(fragen_number_list[k]))
     else:
         frage_box.configure(text=fragen_liste[k])
+        answer_box.configure(text='Click Show')
         next_button.destroy()
         insert_button('Quit', question_window,9,8,1,1,quit)
         insert_button('Show', question_window,9,6,1,1,show)
