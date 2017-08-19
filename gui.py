@@ -279,7 +279,9 @@ def insert_button(t,window, r,c,cspan,rspan, com):
 
 begruessung_text='Willkommen. \n\n Wähle einen Themenberich aus:\n'
 menu_left= '\n Drittes Semester (3)  \n\n Lagrange-Formalismus (l)  \n\n Kreisel (k)  \n\n Geometrische Optik (go) \n \n Chaostheorie (c) \n'
-menu_right=( '\n Viertes Semester (4) \n \n  Hamilton-Formaismus (h)  \n\n Wellen (w) \n \n Wellenoptik (wo)  \n\n  Beide Semester (34) \n' )
+menu_middle=( '\n Viertes Semester (4) \n \n  Hamilton-Formaismus (h)  \n\n Wellen (w) \n \n Wellenoptik (wo)  \n\n  Beide Semester (34) \n' )
+menu_middle_right=(' \n Grundlagen QM (gq) \n \n Hamonischer Oszi. (ozi) \n \n Symmetrien/Erhaltugsgrößen (se) \n \n Darstellungen (d) \n\n Wasserstoff (was) \n')
+menu_right=('\n Teilchen im EM-Feld (em) \n \n Spin (s) \n \n Störungstheorie (st) \n \n Feinstruktur (f) \n \n Identische Teilchen (it) \n')
 eingabe='Wahl:'
 
 #User Choose
@@ -426,8 +428,13 @@ greeting=insert_message(begruessung_text,root,1,1,2,1)
 greeting.configure(width=5000)
 greeting.config(font=('ms serif',15))
 #insert_label(menu_left,root,2,1)
-menu_right_mess=insert_message(menu_right,root,2,2,1,1)
+menu_middle_mess=insert_message(menu_middle,root,2,2,1,1)
+menu_middle_right_mess=insert_message(menu_middle_right,root,2,3,1,1)
+menu_right_mess=insert_message(menu_right,root,2,4,1,1)
+
 menu_left_mess=insert_message(menu_left,root,2,1,1,1)
+menu_middle_mess.config(font=('ms serif',15))
+menu_middle_right_mess.config(font=('ms serif',15))
 menu_right_mess.config(font=('ms serif',15))
 menu_left_mess.config(font=('ms serif',15))
 insert_label(eingabe,root,3,1)
