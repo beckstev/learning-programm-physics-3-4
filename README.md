@@ -1,6 +1,6 @@
 # learning-programm-physics-3-4
 
-This programm was build to prepare you for the verbal physics 3/4 exam.
+This program was built to prepare you for the oral physics 3/4 exam.
 
 # How to start
 
